@@ -1,0 +1,26 @@
+body{
+    font-family: 'Heebo', serif;
+}
+
+#contenedor{
+    background-image: linear-gradient(to top, rgba(245, 245, 245), rgba(173, 216, 230, 0.7));
+    margin: auto 150px auto 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid black;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;    
+}
+
+img{
+    width: 281px;
+    height: 281px;
+    border-radius: 50%;
+    float: right;
+}
